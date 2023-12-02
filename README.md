@@ -8,4 +8,6 @@ This project centers around the implementation of Huffman Coding, a file compres
 - Emphasis on lossless compression
 - Exploration of fixed-length and variable-length encoding nuances
 
+![Sheld of file binders](files.jpg)
+
 Feel free to explore, and reach out at djain (at) ucsd (dot) edu
